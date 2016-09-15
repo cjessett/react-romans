@@ -2,4 +2,4 @@
 
 - This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-- Check out the difference in response with [this](https://cjessett.github.io/js-roman-numerals/) vanilla JS version
+- Check out the difference in response with [this](https://github.com/cjessett/js-roman-numerals/) vanilla JS version
